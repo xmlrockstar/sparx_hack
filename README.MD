@@ -30,7 +30,8 @@ after you can start the python server in the background
     cd 
     python server.py
 
-The final result will be in the standard ai sytnax text thing to let computers understand things like fractions and indices that cannot easily be put into a single string
+The final result will be in the standard ai sytnax text thing to let computers understand things like fractions and indices that cannot easily be put into a single string  
+It just takes simple common sense to understand what is trying to be said, i do not want to filter out the ai jargon as it is necessary for understaing fractions and other things 
 
 This does not work on images as they cannot be copied and the gpt model does not support images
 you can add support for this if you want but idk how well it will work
