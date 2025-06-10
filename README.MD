@@ -1,5 +1,6 @@
 # sparx_hack
-solves sparx maths questions for you form a simple browser extension
+solves sparx maths questions for you form a simple browser extension 
+i made this because my teacher always sets sparx and if i dont do it he will give me a detention :(
 
 chromium browsers only
 
