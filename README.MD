@@ -12,6 +12,7 @@ YOU WILL REQUIRE A CHATGPT KEY WITH CREDIT
 
 the minimum you can pay ChatGPT is $5 ~ £4.44 for me in uk
 i think it is unlikely you will EVER need more as i only use £0.06 of this during the entire development of the code
+You will also need an openai account
 
 the python server uses flask and openai which are the only dependencies overall
 
