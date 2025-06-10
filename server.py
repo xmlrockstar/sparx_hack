@@ -28,9 +28,7 @@ def send():
         )
         print(response.output_text)
         replies.append(response.output_text)
-        # reply = response.choices[0].message['content']
         return jsonify({'response': response.output_text})
-        # return jsonify({'status': 'success', 'message': 'Message Received'}), 200
     
     return jsonify({'status':'error', 'message': 'No Message recieved'}), 400
 
