@@ -32,6 +32,8 @@ after you can start the python server in the background
     cd 
     python server.py
 
+If you click off the popup the output is saved in the dev console and also unformatted at http://localhost:3000/
+
 The final result will be in the standard ai sytnax text thing to let computers understand things like fractions and indices that cannot easily be put into a single string  
 It just takes simple common sense to understand what is trying to be said, i do not want to filter out the ai jargon as it is necessary for understaing fractions and other things 
 
