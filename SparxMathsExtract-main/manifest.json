@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Sparx-Maths Question Extractor",
+    "name": "Sparx-Maths Question Answer Bot",
     "version": "1.0",
     "description": "Extracts the current question from the Sparx-Maths website AND solves it.",
     "permissions": ["activeTab", "scripting", "tabs"],
